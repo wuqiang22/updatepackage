@@ -1,0 +1,7 @@
+1:使用luajit进行编译
+2:system命令
+3:svn接口使用
+4:wxWidget熟悉
+5:cocos2d热更新流程，配置脚本
+6:加密
+7:md5
